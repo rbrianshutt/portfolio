@@ -1,0 +1,14 @@
+{
+	"name": "portfolio",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"scss": "node-sass -watch scss/ -o portfolio/dist/css/"
+	},
+	"author": "Brian Shutt",
+	"license": "ISC",
+	"dependencies": {
+		"node-sass": "^6.0.1"
+	}
+}
